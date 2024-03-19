@@ -1,0 +1,510 @@
+{
+    "users": [{
+        "id": "1",
+        "email": "123@gmail.com",
+        "password": "12345678"
+    }],
+    "categories": [{
+            "id": 1,
+            "name": "Electronics",
+            "isChecked": false
+        },
+        {
+            "id": 2,
+            "name": "Clothing",
+            "isChecked": false
+        },
+        {
+            "id": 3,
+            "name": "Home & Garden",
+            "isChecked": false
+        },
+        {
+            "id": 4,
+            "name": "Books",
+            "isChecked": false
+        },
+        {
+            "id": 5,
+            "name": "Toys & Games",
+            "isChecked": false
+        },
+        {
+            "id": 6,
+            "name": "Health & Beauty",
+            "isChecked": false
+        },
+        {
+            "id": 7,
+            "name": "Sports & Outdoors",
+            "isChecked": false
+        },
+        {
+            "id": 8,
+            "name": "Automotive",
+            "isChecked": false
+        },
+        {
+            "id": 9,
+            "name": "Food & Beverages",
+            "isChecked": false
+        },
+        {
+            "id": 10,
+            "name": "Art & Collectibles",
+            "isChecked": false
+        },
+        {
+            "id": 11,
+            "name": "Music",
+            "isChecked": false
+        },
+        {
+            "id": 12,
+            "name": "Pets",
+            "isChecked": false
+        },
+        {
+            "id": 13,
+            "name": "Travel",
+            "isChecked": false
+        },
+        {
+            "id": 14,
+            "name": "Fitness",
+            "isChecked": false
+        },
+        {
+            "id": 15,
+            "name": "Electrical Supplies",
+            "isChecked": false
+        },
+        {
+            "id": 16,
+            "name": "Stationery & Office Supplies",
+            "isChecked": false
+        },
+        {
+            "id": 17,
+            "name": "Baby & Toddler",
+            "isChecked": false
+        },
+        {
+            "id": 18,
+            "name": "Jewelry & Watches",
+            "isChecked": false
+        },
+        {
+            "id": 19,
+            "name": "Party Supplies",
+            "isChecked": false
+        },
+        {
+            "id": 20,
+            "name": "Craft Supplies",
+            "isChecked": false
+        },
+        {
+            "id": 21,
+            "name": "Home Improvement",
+            "isChecked": false
+        },
+        {
+            "id": 22,
+            "name": "Outdoor Furniture",
+            "isChecked": false
+        },
+        {
+            "id": 23,
+            "name": "Appliances",
+            "isChecked": false
+        },
+        {
+            "id": 24,
+            "name": "Computer Software",
+            "isChecked": false
+        },
+        {
+            "id": 25,
+            "name": "Gardening",
+            "isChecked": false
+        },
+        {
+            "id": 26,
+            "name": "Office Furniture",
+            "isChecked": false
+        },
+        {
+            "id": 27,
+            "name": "Cookware & Bakeware",
+            "isChecked": false
+        },
+        {
+            "id": 28,
+            "name": "Camping & Hiking",
+            "isChecked": false
+        },
+        {
+            "id": 29,
+            "name": "Cooking Appliances",
+            "isChecked": false
+        },
+        {
+            "id": 30,
+            "name": "Fishing",
+            "isChecked": false
+        },
+        {
+            "id": 31,
+            "name": "DVDs & Blu-ray Discs",
+            "isChecked": false
+        },
+        {
+            "id": 32,
+            "name": "Tools",
+            "isChecked": false
+        },
+        {
+            "id": 33,
+            "name": "Pet Supplies",
+            "isChecked": false
+        },
+        {
+            "id": 34,
+            "name": "Hobbies",
+            "isChecked": false
+        },
+        {
+            "id": 35,
+            "name": "Construction Materials",
+            "isChecked": false
+        },
+        {
+            "id": 36,
+            "name": "Baby Gear",
+            "isChecked": false
+        },
+        {
+            "id": 37,
+            "name": "Kitchen & Dining",
+            "isChecked": false
+        },
+        {
+            "id": 38,
+            "name": "Home Decor",
+            "isChecked": false
+        },
+        {
+            "id": 39,
+            "name": "Smart Home",
+            "isChecked": false
+        },
+        {
+            "id": 40,
+            "name": "Wearable Technology",
+            "isChecked": false
+        },
+        {
+            "id": 41,
+            "name": "Board Games",
+            "isChecked": false
+        },
+        {
+            "id": 42,
+            "name": "DIY Kits",
+            "isChecked": false
+        },
+        {
+            "id": 43,
+            "name": "Fashion Accessories",
+            "isChecked": false
+        },
+        {
+            "id": 44,
+            "name": "Bathroom",
+            "isChecked": false
+        },
+        {
+            "id": 45,
+            "name": "Party Decorations",
+            "isChecked": false
+        },
+        {
+            "id": 46,
+            "name": "Painting",
+            "isChecked": false
+        },
+        {
+            "id": 47,
+            "name": "Software",
+            "isChecked": false
+        },
+        {
+            "id": 48,
+            "name": "Music",
+            "isChecked": false
+        },
+        {
+            "id": 49,
+            "name": "Movies & TV Shows",
+            "isChecked": false
+        },
+        {
+            "id": 50,
+            "name": "Home",
+            "isChecked": false
+        },
+        {
+            "id": 51,
+            "name": "Toys",
+            "isChecked": false
+        },
+        {
+            "id": 52,
+            "name": "Games",
+            "isChecked": false
+        },
+        {
+            "id": 53,
+            "name": "Sports",
+            "isChecked": false
+        },
+        {
+            "id": 54,
+            "name": "Outdoors",
+            "isChecked": false
+        },
+        {
+            "id": 55,
+            "name": "Automotive",
+            "isChecked": false
+        },
+        {
+            "id": 56,
+            "name": "Food",
+            "isChecked": false
+        },
+        {
+            "id": 57,
+            "name": "Drink",
+            "isChecked": false
+        },
+        {
+            "id": 58,
+            "name": "Art",
+            "isChecked": false
+        },
+        {
+            "id": 59,
+            "name": "Collectibles",
+            "isChecked": false
+        },
+        {
+            "id": 60,
+            "name": "Crafts",
+            "isChecked": false
+        },
+        {
+            "id": 61,
+            "name": "DIY",
+            "isChecked": false
+        },
+        {
+            "id": 62,
+            "name": "Fashion",
+            "isChecked": false
+        },
+        {
+            "id": 63,
+            "name": "Jewelry",
+            "isChecked": false
+        },
+        {
+            "id": 64,
+            "name": "Accessories",
+            "isChecked": false
+        },
+        {
+            "id": 65,
+            "name": "Party",
+            "isChecked": false
+        },
+        {
+            "id": 66,
+            "name": "Decorations",
+            "isChecked": false
+        },
+        {
+            "id": 67,
+            "name": "Supplies",
+            "isChecked": false
+        },
+        {
+            "id": 68,
+            "name": "Improvement",
+            "isChecked": false
+        },
+        {
+            "id": 69,
+            "name": "Furniture",
+            "isChecked": false
+        },
+        {
+            "id": 70,
+            "name": "Appliance",
+            "isChecked": false
+        },
+        {
+            "id": 71,
+            "name": "Gardening",
+            "isChecked": false
+        },
+        {
+            "id": 72,
+            "name": "Office",
+            "isChecked": false
+        },
+        {
+            "id": 73,
+            "name": "Cooking",
+            "isChecked": false
+        },
+        {
+            "id": 74,
+            "name": "Baking",
+            "isChecked": false
+        },
+        {
+            "id": 75,
+            "name": "Camping",
+            "isChecked": false
+        },
+        {
+            "id": 76,
+            "name": "Hiking",
+            "isChecked": false
+        },
+        {
+            "id": 77,
+            "name": "DVDs",
+            "isChecked": false
+        },
+        {
+            "id": 78,
+            "name": "Blu-ray",
+            "isChecked": false
+        },
+        {
+            "id": 79,
+            "name": "Power",
+            "isChecked": false
+        },
+        {
+            "id": 80,
+            "name": "Pets",
+            "isChecked": false
+        },
+        {
+            "id": 81,
+            "name": "Hobby",
+            "isChecked": false
+        },
+        {
+            "id": 82,
+            "name": "Construction",
+            "isChecked": false
+        },
+        {
+            "id": 83,
+            "name": "Gear",
+            "isChecked": false
+        },
+        {
+            "id": 84,
+            "name": "Baby",
+            "isChecked": false
+        },
+        {
+            "id": 85,
+            "name": "Strollers",
+            "isChecked": false
+        },
+        {
+            "id": 86,
+            "name": "Cribs",
+            "isChecked": false
+        },
+        {
+            "id": 87,
+            "name": "Carriers",
+            "isChecked": false
+        },
+        {
+            "id": 88,
+            "name": "Kitchen",
+            "isChecked": false
+        },
+        {
+            "id": 89,
+            "name": "Utensils",
+            "isChecked": false
+        },
+        {
+            "id": 90,
+            "name": "Dishes",
+            "isChecked": false
+        },
+        {
+            "id": 91,
+            "name": "Gadgets",
+            "isChecked": false
+        },
+        {
+            "id": 92,
+            "name": "Decor",
+            "isChecked": false
+        },
+        {
+            "id": 93,
+            "name": "Home Automation",
+            "isChecked": false
+        },
+        {
+            "id": 94,
+            "name": "Living",
+            "isChecked": false
+        },
+        {
+            "id": 95,
+            "name": "Watches",
+            "isChecked": false
+        },
+        {
+            "id": 96,
+            "name": "Classic",
+            "isChecked": false
+        },
+        {
+            "id": 97,
+            "name": "Modern",
+            "isChecked": false
+        },
+        {
+            "id": 98,
+            "name": "Games",
+            "isChecked": false
+        },
+        {
+            "id": 99,
+            "name": "Pastimes",
+            "isChecked": false
+        },
+        {
+            "id": 100,
+            "name": "Materials",
+            "isChecked": false
+        }
+    ]
+  }	
+  
+  
